@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Freelancing projects**<br>- 🌱 I’m currently learning **Django, react**<br>- 🤝 I’m looking for help with **Building a Community**<br>- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ishwar1210)<br>- 📝 I regularly write on [Twitter]()<br>- 💬 Ask me about **Python, Web Design, Mysql**<br>- 📫 How to reach me: **sanketkhairnar390@gmail.com**<br>- 📄 My Resume: [Click here]()<br>- ⚡ Fun fact: **I love meeting new people & socialising**<br>
+- 🔭 currently working on **Freelancing projects**<br>- 🌱 currently learning **Django, react**<br>- 🤝 looking for help with **Building a Community**<br>- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ishwar1210)<br>- 📝 I regularly write on [Twitter]()<br>- 💬 Ask me about **Python, Web Design, Mysql**<br>- 📫 How to reach me: **sanketkhairnar390@gmail.com**<br>- 📄 My Resume: [Click here]()<br>- ⚡ Fun fact: **I love meeting new people & socialising**<br>
 
 
 ## 🌐 Socials:
